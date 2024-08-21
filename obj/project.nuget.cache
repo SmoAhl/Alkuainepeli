@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cSvSRBBZzjhhAJ7W22rM6bscVpUOgprSnkQKTv8pjeh585bSgCwZed8KMV0X7yzkHq30PZnyujhSwQNDO2fEPQ==",
+  "dgSpecHash": "sqC48UKVvp3zF7FW2zli+TcrOkZOk5BhBcoY1/0WyLDAC8Z/zEqnELGIkLeBTry5PuFWiNevGOgtYUQmDsW2lg==",
   "success": true,
   "projectFilePath": "C:\\Users\\simoa\\OneDrive\\Documents\\GITREPOS\\Alkuaine\\Alkuaine.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\simoa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
